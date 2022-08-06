@@ -33,14 +33,9 @@
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; C++
+- 🔧 &nbsp; C++ | Golang
 
 <hr>
 
-<br/><br/>
-
-[![Leryn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=leryn1122&show_icons=true)](https://github.com/leryn1122)
-
-<br/>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leryn1122&show_icons=true)
+<img width="40%" align="left" src="https://github-readme-stats.vercel.app/api?username=leryn1122&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER&count_private=true&show_icons=true&theme=dracula" />
+<img width="56%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leryn1122&theme=dracula" />

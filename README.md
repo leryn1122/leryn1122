@@ -41,7 +41,6 @@
     <img src="https://img.shields.io/badge/kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=326CE5&labelColor=white">
     <img src="https://img.shields.io/badge/helm-0F1689.svg?style=for-the-badge&logo=helm&logoColor=0F1689&labelColor=white">
     <img src="https://img.shields.io/badge/rancher-0075A8.svg?style=for-the-badge&logo=rancher&logoColor=0075A8&labelColor=white">
-    <img src="https://img.shields.io/badge/drone-212121.svg?style=for-the-badge&logo=drone&logoColor=212121&labelColor=white">
   </td>
 </tr>
 <tr>
@@ -76,6 +75,13 @@
     <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=F05032&labelColor=white">
     <img src="https://img.shields.io/badge/markdown-000000.svg?style=for-the-badge&logo=markdown&logoColor=000000&labelColor=white">
     <img src="https://img.shields.io/badge/visualstudiocode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC&labelColor=white">
+   </td>
+</tr>
+<tr>
+  <td>CI / CD</td>
+  <td>   
+    <img src="https://img.shields.io/badge/drone-212121.svg?style=for-the-badge&logo=drone&logoColor=212121&labelColor=white">
+    <img src="https://img.shields.io/badge/githubactions-2088FF.svg?style=for-the-badge&logo=githubactions&logoColor=2088FF&labelColor=white">
   </td>
 </tr>
 </table>
@@ -101,10 +107,9 @@
   </td>
 </tr>
 <tr>
-  <td>CI/CD</td>
+  <td>CI / CD</td>
   <td>
     <img src="https://img.shields.io/badge/jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=D24939&labelColor=white">
-    <img src="https://img.shields.io/badge/githubactions-2088FF.svg?style=for-the-badge&logo=githubactions&logoColor=2088FF&labelColor=white">
   </td>
 </tr>
 </table>

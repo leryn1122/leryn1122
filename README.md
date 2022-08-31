@@ -2,11 +2,11 @@
 
 ---
 
+<img align='right' src="./assets/developer.svg" width="260">
+
 ![Profile views](https://gpvc.arturio.dev/leryn1122)
 ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=leryn1122.leryn1122)
 ![Follow](https://img.shields.io/github/followers/leryn1122?label=Follow)
-
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <h3> 💻 About Me </h3>
 

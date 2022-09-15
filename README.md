@@ -44,6 +44,14 @@
   </td>
 </tr>
 <tr>
+  <td>CI / CD</td>
+  <td>
+    <img src="https://img.shields.io/badge/jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=D24939&labelColor=white">
+    <img src="https://img.shields.io/badge/githubactions-2088FF.svg?style=for-the-badge&logo=githubactions&logoColor=2088FF&labelColor=white">
+    <img src="https://img.shields.io/badge/drone-212121.svg?style=for-the-badge&logo=drone&logoColor=212121&labelColor=white">
+  </td>
+</tr>
+<tr>
   <td>Frontend</td>
   <td>
     <img src="https://img.shields.io/badge/vue.js-4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D&labelColor=white">
@@ -70,20 +78,12 @@
   </td>
 </tr>
 <tr>
-  <td>IDE & Docs</td>
+  <td>Toolchains</td>
   <td>
     <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=F05032&labelColor=white">
     <img src="https://img.shields.io/badge/markdown-000000.svg?style=for-the-badge&logo=markdown&logoColor=000000&labelColor=white">
     <img src="https://img.shields.io/badge/visualstudiocode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC&labelColor=white">
    </td>
-</tr>
-<tr>
-  <td>CI / CD</td>
-  <td>
-    <img src="https://img.shields.io/badge/jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=D24939&labelColor=white">
-    <img src="https://img.shields.io/badge/githubactions-2088FF.svg?style=for-the-badge&logo=githubactions&logoColor=2088FF&labelColor=white">
-    <img src="https://img.shields.io/badge/drone-212121.svg?style=for-the-badge&logo=drone&logoColor=212121&labelColor=white">
-  </td>
 </tr>
 </table>
 
@@ -96,6 +96,7 @@
   <td>Language</td>
   <td>
     <img src="https://img.shields.io/badge/c++-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=00599C&labelColor=white">
+    <img src="https://img.shields.io/badge/zig-F7A41D.svg?style=for-the-badge&logo=zig&logoColor=F7A41D&labelColor=white">
     <img src="https://img.shields.io/badge/golang-00ADD8.svg?style=for-the-badge&logo=go&logoColor=00ADD8&labelColor=white">
   </td>
 </tr>

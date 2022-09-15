@@ -70,7 +70,7 @@
   </td>
 </tr>
 <tr>
-  <td>Toolchain</td>
+  <td>IDE & Docs</td>
   <td>
     <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=F05032&labelColor=white">
     <img src="https://img.shields.io/badge/markdown-000000.svg?style=for-the-badge&logo=markdown&logoColor=000000&labelColor=white">
@@ -79,9 +79,10 @@
 </tr>
 <tr>
   <td>CI / CD</td>
-  <td>   
-    <img src="https://img.shields.io/badge/drone-212121.svg?style=for-the-badge&logo=drone&logoColor=212121&labelColor=white">
+  <td>
+    <img src="https://img.shields.io/badge/jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=D24939&labelColor=white">
     <img src="https://img.shields.io/badge/githubactions-2088FF.svg?style=for-the-badge&logo=githubactions&logoColor=2088FF&labelColor=white">
+    <img src="https://img.shields.io/badge/drone-212121.svg?style=for-the-badge&logo=drone&logoColor=212121&labelColor=white">
   </td>
 </tr>
 </table>
@@ -104,12 +105,6 @@
     <img src="https://img.shields.io/badge/istio-466BB0.svg?style=for-the-badge&logo=istio&logoColor=466BB0&labelColor=white">
     <img src="https://img.shields.io/badge/prometheus-E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=E6522C&labelColor=white">
     <img src="https://img.shields.io/badge/grafana-F46800.svg?style=for-the-badge&logo=grafana&logoColor=F46800&labelColor=white">
-  </td>
-</tr>
-<tr>
-  <td>CI / CD</td>
-  <td>
-    <img src="https://img.shields.io/badge/jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=D24939&labelColor=white">
   </td>
 </tr>
 </table>

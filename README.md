@@ -12,13 +12,15 @@
 
 <hr/>
 
-- ✍️ &nbsp; Working on Web Development and Devops.
+- 🌐 &nbsp; Working on webserver backend development and devops.
 
-- 🤔 &nbsp; Pursuing new technologies and developing solutions.
+- 🤖 &nbsp; Pursuing new technologies and developing solutions.
 
-- 🎓 &nbsp; Building compiler on my own.
+- 🌱 &nbsp; Building compiler on my own.
 
-- 🌱 &nbsp; Learning about Cloud and Kubernetes.
+- ☁️ &nbsp; Learning about Cloud and Kubernetes.
+
+- 🎡 &nbsp; Learning about monitoring and observability.
 
 <h3>🛠 Tech Stack & Tool Chains</h3>
 
@@ -30,6 +32,7 @@
   <td>
     <img src="https://img.shields.io/badge/java-F56C2D.svg?style=for-the-badge&logo=openjdk&logoColor=F56C2D&labelColor=white">
     <img src="https://img.shields.io/badge/bash-4EAA25.svg?style=for-the-badge&logo=gnubash&logoColor=4EAA25&labelColor=white">
+    <img src="https://img.shields.io/badge/golang-00ADD8.svg?style=for-the-badge&logo=go&logoColor=00ADD8&labelColor=white">
     <img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=white">
     <img src="https://img.shields.io/badge/rust-000000.svg?style=for-the-badge&logo=rust&logoColor=000000&labelColor=white">
   </td>
@@ -97,12 +100,12 @@
   <td>
     <img src="https://img.shields.io/badge/c++-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=00599C&labelColor=white">
     <img src="https://img.shields.io/badge/zig-F7A41D.svg?style=for-the-badge&logo=zig&logoColor=F7A41D&labelColor=white">
-    <img src="https://img.shields.io/badge/golang-00ADD8.svg?style=for-the-badge&logo=go&logoColor=00ADD8&labelColor=white">
   </td>
 </tr>
 <tr>
   <td>Containerization</td>
   <td>
+    <img src="https://img.shields.io/badge/cilium-F8C517.svg?style=for-the-badge&logo=cilium&logoColor=F8C517&labelColor=white">
     <img src="https://img.shields.io/badge/istio-466BB0.svg?style=for-the-badge&logo=istio&logoColor=466BB0&labelColor=white">
     <img src="https://img.shields.io/badge/prometheus-E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=E6522C&labelColor=white">
     <img src="https://img.shields.io/badge/grafana-F46800.svg?style=for-the-badge&logo=grafana&logoColor=F46800&labelColor=white">

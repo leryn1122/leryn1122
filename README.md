@@ -11,15 +11,15 @@
 
 <hr/>
 
-- 🌐 &nbsp; Working on webserver backend development and devops.
+- 🍊 &nbsp; Working on webserver backend development and devops.
 
 - 🤖 &nbsp; Pursuing new technologies and developing solutions.
 
-- 🌱 &nbsp; Building compiler on my own.
+- 🎉 &nbsp; Building compiler on my own.
 
-- ☁️ &nbsp; Learning about Cloud and Kubernetes.
+- 🌲 &nbsp; Learning about Cloud and Kubernetes.
 
-- 🎡 &nbsp; Learning about monitoring and observability.
+- ☁️ &nbsp; Learning about monitoring and observability.
 
 <h3>🛠 Tech Stack & Tool Chains</h3>
 
@@ -42,12 +42,21 @@
     <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=white">
     <img src="https://img.shields.io/badge/kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=326CE5&labelColor=white">
     <img src="https://img.shields.io/badge/helm-0F1689.svg?style=for-the-badge&logo=helm&logoColor=0F1689&labelColor=white">
+    <img src="https://img.shields.io/badge/cilium-F8C517.svg?style=for-the-badge&logo=cilium&logoColor=F8C517&labelColor=white">
     <img src="https://img.shields.io/badge/rancher-0075A8.svg?style=for-the-badge&logo=rancher&logoColor=0075A8&labelColor=white">
+  </td>
+</tr>
+<tr>
+  <td>Monitoring</td>
+  <td>
+    <img src="https://img.shields.io/badge/prometheus-E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=E6522C&labelColor=white">
+    <img src="https://img.shields.io/badge/grafana-F46800.svg?style=for-the-badge&logo=grafana&logoColor=F46800&labelColor=white">
   </td>
 </tr>
 <tr>
   <td>CI / CD</td>
   <td>
+    <img src="https://img.shields.io/badge/tekton-FD495C.svg?style=for-the-badge&logo=tekton&logoColor=FD495C&labelColor=white">
     <img src="https://img.shields.io/badge/jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=D24939&labelColor=white">
     <img src="https://img.shields.io/badge/githubactions-2088FF.svg?style=for-the-badge&logo=githubactions&logoColor=2088FF&labelColor=white">
     <img src="https://img.shields.io/badge/drone-212121.svg?style=for-the-badge&logo=drone&logoColor=212121&labelColor=white">
@@ -104,10 +113,15 @@
 <tr>
   <td>Containerization</td>
   <td>
-    <img src="https://img.shields.io/badge/cilium-F8C517.svg?style=for-the-badge&logo=cilium&logoColor=F8C517&labelColor=white">
     <img src="https://img.shields.io/badge/istio-466BB0.svg?style=for-the-badge&logo=istio&logoColor=466BB0&labelColor=white">
-    <img src="https://img.shields.io/badge/prometheus-E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=E6522C&labelColor=white">
-    <img src="https://img.shields.io/badge/grafana-F46800.svg?style=for-the-badge&logo=grafana&logoColor=F46800&labelColor=white">
+    <img src="https://img.shields.io/badge/dapr-0D2192.svg?style=for-the-badge&logo=dapr&logoColor=0D2192&labelColor=white">
+  </td>
+</tr>
+<tr>
+  <td>Infra as Code</td>
+  <td>
+    <img src="https://img.shields.io/badge/ansible-EE0000.svg?style=for-the-badge&logo=ansible&logoColor=EE0000&labelColor=white">
+    <img src="https://img.shields.io/badge/terraform-844FBA.svg?style=for-the-badge&logo=terraform&logoColor=844FBA&labelColor=white">
   </td>
 </tr>
 </table>

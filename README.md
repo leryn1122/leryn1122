@@ -17,9 +17,9 @@
 
 - 🎉 &nbsp; Building compiler on my own.
 
-- 🌲 &nbsp; Learning about Cloud and Kubernetes.
+- 🎄 &nbsp; Learning about Cloud and Kubernetes.
 
-- ☁️ &nbsp; Learning about monitoring and observability.
+- 🔭 &nbsp; Learning about monitoring and observability.
 
 <h3>🛠 Tech Stack & Tool Chains</h3>
 

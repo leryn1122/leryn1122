@@ -43,7 +43,6 @@
     <img src="https://img.shields.io/badge/kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=326CE5&labelColor=white">
     <img src="https://img.shields.io/badge/helm-0F1689.svg?style=for-the-badge&logo=helm&logoColor=0F1689&labelColor=white">
     <img src="https://img.shields.io/badge/cilium-F8C517.svg?style=for-the-badge&logo=cilium&logoColor=F8C517&labelColor=white">
-    <img src="https://img.shields.io/badge/rancher-0075A8.svg?style=for-the-badge&logo=rancher&logoColor=0075A8&labelColor=white">
   </td>
 </tr>
 <tr>
@@ -68,7 +67,6 @@
     <img src="https://img.shields.io/badge/vue.js-4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D&labelColor=white">
     <img src="https://img.shields.io/badge/vite-646CFF.svg?style=for-the-badge&logo=vite&logoColor=646CFF&labelColor=white">
     <img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=white">
-    <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=339933&labelColor=white">
   </td>
 </tr>
 <tr>

@@ -2,18 +2,19 @@
 
 ---
 
-<img align='right' src="./assets/developer.svg" width="260">
+<img align='right' src="./assets/poi-root.gif" style="width: 60%; max-width: 40vw" >
 
 ![Wiki](https://img.shields.io/badge/leryn.wiki-47CCCC?style=flat&logo=wikipedia&logoColor=white&link=https://wiki.leryn.top)
 ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=leryn1122.leryn1122)
-![Follow](https://img.shields.io/github/followers/leryn1122?label=Follow)
+
+![Follow](https://img.shields.io/github/followers/leryn1122)
 ![Stars](https://img.shields.io/github/stars/leryn1122)
 
 <h3> 💻 About Me </h3>
 
 <hr/>
 
-- 🍊 &nbsp; Working on webserver backend development and devops.
+- 🍊 &nbsp; Working on Kubernetes native SRE and devops.
 
 - 🤖 &nbsp; Pursuing new technologies and developing solutions.
 

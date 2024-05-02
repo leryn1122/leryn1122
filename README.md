@@ -30,13 +30,14 @@
 
 <table>
 <tr>
-  <td>Language</td>
+  <td>Language & Framework</td>
   <td>
     <img src="https://img.shields.io/badge/java-F56C2D.svg?style=for-the-badge&logo=openjdk&logoColor=F56C2D&labelColor=white">
     <img src="https://img.shields.io/badge/bash-4EAA25.svg?style=for-the-badge&logo=gnubash&logoColor=4EAA25&labelColor=white">
     <img src="https://img.shields.io/badge/golang-00ADD8.svg?style=for-the-badge&logo=go&logoColor=00ADD8&labelColor=white">
     <img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=white">
     <img src="https://img.shields.io/badge/rust-000000.svg?style=for-the-badge&logo=rust&logoColor=000000&labelColor=white">
+    <img src="https://img.shields.io/badge/spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=6DB33F&labelColor=white">
   </td>
 </tr>
 <tr>
@@ -46,6 +47,7 @@
     <img src="https://img.shields.io/badge/kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=326CE5&labelColor=white">
     <img src="https://img.shields.io/badge/helm-0F1689.svg?style=for-the-badge&logo=helm&logoColor=0F1689&labelColor=white">
     <img src="https://img.shields.io/badge/cilium-F8C517.svg?style=for-the-badge&logo=cilium&logoColor=F8C517&labelColor=white">
+    <img src="https://img.shields.io/badge/harbor-ADDCE8.svg?style=for-the-badge&logo=harbor&logoColor=ADDCE8&labelColor=white">
   </td>
 </tr>
 <tr>
@@ -53,6 +55,7 @@
   <td>
     <img src="https://img.shields.io/badge/prometheus-E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=E6522C&labelColor=white">
     <img src="https://img.shields.io/badge/grafana-F46800.svg?style=for-the-badge&logo=grafana&logoColor=F46800&labelColor=white">
+    <img src="https://img.shields.io/badge/victoriametrics-621773.svg?style=for-the-badge&logo=victoriametrics&logoColor=621773&labelColor=white">
   </td>
 </tr>
 <tr>
@@ -62,6 +65,7 @@
     <img src="https://img.shields.io/badge/jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=D24939&labelColor=white">
     <img src="https://img.shields.io/badge/githubactions-2088FF.svg?style=for-the-badge&logo=githubactions&logoColor=2088FF&labelColor=white">
     <img src="https://img.shields.io/badge/drone-212121.svg?style=for-the-badge&logo=drone&logoColor=212121&labelColor=white">
+    <img src="https://img.shields.io/badge/argo-EF7B4D.svg?style=for-the-badge&logo=argo&logoColor=EF7B4D&labelColor=white">
   </td>
 </tr>
 <tr>
@@ -87,6 +91,7 @@
     <img src="https://img.shields.io/badge/kafka-231F20.svg?style=for-the-badge&logo=apachekafka&logoColor=231F20&labelColor=white">
     <img src="https://img.shields.io/badge/redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=DC382D&labelColor=white">
     <img src="https://img.shields.io/badge/elasticsearch-005571.svg?style=for-the-badge&logo=elasticsearch&logoColor=005571&labelColor=white">
+    <img src="https://img.shields.io/badge/etcd-419EDA.svg?style=for-the-badge&logo=etcd&logoColor=419EDA&labelColor=white">
   </td>
 </tr>
 <tr>
@@ -95,7 +100,24 @@
     <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=F05032&labelColor=white">
     <img src="https://img.shields.io/badge/markdown-000000.svg?style=for-the-badge&logo=markdown&logoColor=000000&labelColor=white">
     <img src="https://img.shields.io/badge/visualstudiocode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC&labelColor=white">
-   </td>
+  </td>
+</tr>
+<tr>
+  <td>Infra as Code</td>
+  <td>
+    <img src="https://img.shields.io/badge/ansible-EE0000.svg?style=for-the-badge&logo=ansible&logoColor=EE0000&labelColor=white">
+    <img src="https://img.shields.io/badge/terraform-844FBA.svg?style=for-the-badge&logo=terraform&logoColor=844FBA&labelColor=white">
+  </td>
+</tr>
+<tr>
+  <td>Cloud & OS</td>
+  <td>
+    <img src="https://img.shields.io/badge/vmware-607078.svg?style=for-the-badge&logo=vmware&logoColor=607078&labelColor=white">
+    <img src="https://img.shields.io/badge/alibabacloud-FF6A00.svg?style=for-the-badge&logo=alibabacloud&logoColor=FF6A00&labelColor=white">
+    <img src="https://img.shields.io/badge/smartx-54B848.svg?style=for-the-badge&logo=target&logoColor=54B848&labelColor=white">
+    <img src="https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=E95420&labelColor=white">
+    <img src="https://img.shields.io/badge/alpine-0D597F.svg?style=for-the-badge&logo=alpinelinux&logoColor=0D597F&labelColor=white">
+  </td>
 </tr>
 </table>
 
@@ -116,13 +138,6 @@
   <td>
     <img src="https://img.shields.io/badge/istio-466BB0.svg?style=for-the-badge&logo=istio&logoColor=466BB0&labelColor=white">
     <img src="https://img.shields.io/badge/dapr-0D2192.svg?style=for-the-badge&logo=dapr&logoColor=0D2192&labelColor=white">
-  </td>
-</tr>
-<tr>
-  <td>Infra as Code</td>
-  <td>
-    <img src="https://img.shields.io/badge/ansible-EE0000.svg?style=for-the-badge&logo=ansible&logoColor=EE0000&labelColor=white">
-    <img src="https://img.shields.io/badge/terraform-844FBA.svg?style=for-the-badge&logo=terraform&logoColor=844FBA&labelColor=white">
   </td>
 </tr>
 </table>
